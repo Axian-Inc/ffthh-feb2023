@@ -1,0 +1,13 @@
+jupyter>=1.0.0,<1.1.0
+ipykernel==6.21.0
+Keras>=2.10.0,<2.11.0
+Keras-Applications>=1.0.6
+Keras-Preprocessing>=1.0.5
+matplotlib>=3.2.2,<3.4.0
+pandas>=0.25.3,<0.26.0
+scikit-learn>=0.18.1
+scipy>=1.4.1
+numpy>=1.23.5
+seaborn>=0.8
+tensorflow==2.10.0
+wheel>=0.30.0a0
